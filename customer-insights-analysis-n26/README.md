@@ -24,7 +24,7 @@ The project focuses on understanding customer pain points, complaint patterns, a
 
 ## Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](image/dashboard_overview.png)
 
 ---
 
