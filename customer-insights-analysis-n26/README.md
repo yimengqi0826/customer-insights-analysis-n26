@@ -50,7 +50,7 @@ The project focuses on understanding customer pain points, complaint patterns, a
 
 ---
 
-## Recommendations
+## Actionable Insights
 
 - Prioritize improvements in account access and security processes to reduce the most critical source of customer dissatisfaction.
 
