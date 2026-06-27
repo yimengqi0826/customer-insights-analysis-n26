@@ -38,7 +38,7 @@ The project focuses on understanding customer pain points, complaint patterns, a
 
 ---
 
-## Business Insights
+## Key Findings
 
 - **Account Access & Security** was the primary driver of customer dissatisfaction, accounting for **33.6% of all negative reviews** and receiving the **lowest average rating (1.10)**.
 
